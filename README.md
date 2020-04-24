@@ -2,4 +2,4 @@
 Pathfinding practice, comparison between A* and dijkstra algorithm
 
 See demo here
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A* vs Dijkstra path finding visualization. <br>Hope you find it interesting!<br>Thanks to <a href="https://twitter.com/quill18?ref_src=twsrc%5Etfw">@quill18</a> &amp; <a href="https://twitter.com/SebastianLague?ref_src=twsrc%5Etfw">@SebastianLague</a> !<a href="https://twitter.com/hashtag/GameDev?src=hash&amp;ref_src=twsrc%5Etfw">#GameDev</a> <a href="https://twitter.com/hashtag/unity3d?src=hash&amp;ref_src=twsrc%5Etfw">#unity3d</a> <a href="https://twitter.com/hashtag/Pathfinding?src=hash&amp;ref_src=twsrc%5Etfw">#Pathfinding</a> <a href="https://twitter.com/hashtag/gamedevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#gamedevelopment</a> <a href="https://t.co/RJJO7xapqb">pic.twitter.com/RJJO7xapqb</a></p>&mdash; Ashraf Zaman (@game_auz) <a href="https://twitter.com/game_auz/status/1033815201412341760?ref_src=twsrc%5Etfw">August 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/RJJO7xapqb
